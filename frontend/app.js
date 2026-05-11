@@ -12,7 +12,7 @@ async function generateCode() {
         console.log("BUTTON CLICKED");
 
         // CALL BACKEND
-        const response = await fetch('http://localhost:8000/api/generate', {
+        const response = await fetch('https://coding-buddy-backend-pjta.onrender.com/api/generate', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -50,7 +50,7 @@ async function generateCode() {
         downBtn.disabled = false;
 
         downBtn.onclick = () => {
-            window.location.href = "http://localhost:8000/download";
+            window.location.href = "https://coding-buddy-backend-pjta.onrender.com/download";
         };
 
         btn.innerText = "Generate & Preview";
@@ -64,7 +64,7 @@ async function generateCode() {
 function downloadCode() {
 
     window.open(
-        'http://localhost:8000/download',
+        'https://coding-buddy-backend-pjta.onrender.com/download',
         '_blank'
     );
 
