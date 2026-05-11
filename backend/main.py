@@ -4,6 +4,7 @@ from pydantic import BaseModel
 import pathlib
 import shutil
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi import Request
 
 from agent.graph import agent
 
@@ -29,7 +30,7 @@ class PromptRequest(BaseModel):
 
 
 @app.post("/api/generate")
-async def generate(req: PromptRequest):
+async def generate(req: PromptRequest, request: Request):
 
     # clear previous project
     if PROJECT_ROOT.exists():
@@ -72,5 +73,5 @@ async def generate(req: PromptRequest):
 
     return {
         "files": files,
-        "preview_url": f"http://localhost:8000/preview/{preview_file}" if preview_file else None
+        "preview_url": f"{request.base_url}preview/{preview_file}" if preview_file else None
     }
