@@ -259,19 +259,12 @@ Live Application:
 
 ## Homepage
 
-[https://images.unsplash.com/photo-1516321318423-f06f85e504b3](https://images.unsplash.com/photo-1516321318423-f06f85e504b3)
+[[https://images.unsplash.com/photo-1516321318423-f06f85e504b3](https://github.com/AbhaySinghThakur271/codding-buddy/blob/main/screenshort/%7B0AF49A1F-5757-4057-B848-43D8B7D8B244%7D.png)]([https://images.unsplash.com/photo-1516321318423-f06f85e504b3](https://github.com/AbhaySinghThakur271/codding-buddy/blob/main/screenshort/%7B0AF49A1F-5757-4057-B848-43D8B7D8B244%7D.png))
 
 ## AI Generation Interface
 
-[https://images.unsplash.com/photo-1555066931-4365d14bab8c](https://images.unsplash.com/photo-1555066931-4365d14bab8c)
+[[https://images.unsplash.com/photo-1555066931-4365d14bab8c](https://github.com/AbhaySinghThakur271/codding-buddy/blob/main/screenshort/%7B76486472-E3D3-4BDC-94CB-98C142877B96%7D.png)]([https://images.unsplash.com/photo-1555066931-4365d14bab8c](https://github.com/AbhaySinghThakur271/codding-buddy/blob/main/screenshort/%7B76486472-E3D3-4BDC-94CB-98C142877B96%7D.png))
 
-## Live Preview Section
-
-[https://images.unsplash.com/photo-1461749280684-dccba630e2f6](https://images.unsplash.com/photo-1461749280684-dccba630e2f6)
-
-## Generated Code Workspace
-
-[https://images.unsplash.com/photo-1515879218367-8466d910aaa4](https://images.unsplash.com/photo-1515879218367-8466d910aaa4)
 
 ---
 
