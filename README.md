@@ -251,7 +251,7 @@ Live Application:
 
 [https://codding-buddy.vercel.app/](https://codding-buddy.vercel.app/)
 
-> Note: The backend is hosted on Render free tier. The first request may take some time to load because the backend server goes into sleep mode after inactivity.
+> Note: The backend is hosted on Render free tier. The first request may take some time to load because the backend server goes into sleep mode after inactivity.Additionally, because this application uses the Groq Free API, the speed and quality of the output may vary or change based on current API rate limits and usage.
 
 ---
 
